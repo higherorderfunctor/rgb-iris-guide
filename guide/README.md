@@ -41,6 +41,7 @@ My electronics knowledge is limited to soldering a Planck, Let's Split, and a fe
 
 ## Tools
 I tried to be as inclusive as possible.  It is very possible I grabbed some tool I had on hand during the build process and forgot to document it here.  Feel free to submit an issue with any questions.
+
 | Part                              | Part Number                                | Source                                        | Cost                                  | Notes                                                                |
 |-----------------------------------|--------------------------------------------|-----------------------------------------------|---------------------------------------|----------------------------------------------------------------------|
 | Soldering Iron                    | Hakko FX888D                               | Amazon                                        | $90 - $140 (depending on accessories) |                                                                      |
